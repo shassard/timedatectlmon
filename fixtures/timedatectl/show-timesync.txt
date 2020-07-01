@@ -1,0 +1,9 @@
+FallbackNTPServers=ntp.ubuntu.com
+ServerName=ntp.ubuntu.com
+ServerAddress=91.189.94.4
+RootDistanceMaxUSec=5s
+PollIntervalMinUSec=32s
+PollIntervalMaxUSec=34min 8s
+PollIntervalUSec=8min 32s
+NTPMessage={ Leap=0, Version=4, Mode=4, Stratum=2, Precision=-23, RootDelay=30.151ms, RootDispersion=22.735ms, Reference=83BC03DC, OriginateTimestamp=Wed 2020-07-01 06:06:45 PDT, ReceiveTimestamp=Wed 2020-07-01 06:06:45 PDT, TransmitTimestamp=Wed 2020-07-01 06:06:45 PDT, DestinationTimestamp=Wed 2020-07-01 06:06:45 PDT, Ignored=no PacketCount=33, Jitter=270.180ms }
+Frequency=1862803
